@@ -65,4 +65,11 @@
 }
 .link{
     color: white;
+    text-decoration: none;
+}
+.link:visited {
+    color: white;
+}
+.link:hover {
+    font-weight: bold;
 }
